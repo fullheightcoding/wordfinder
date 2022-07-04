@@ -17,8 +17,6 @@ Client layers:
 Web browser using Vue.js
 Web browser using ReactJS
 Web browser using AngularJS
-Android using Xamarin.
-IOS using Xamarin.
 Service layer.
 WebAPI layer.
 Database layer.
